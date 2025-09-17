@@ -1,6 +1,6 @@
-# 🔥 PID Based Temperature Controller  
+#  PID Based Temperature Controller  
 
-## 📌 Project Overview  
+##  Project Overview  
 This project implements a **PID (Proportional-Integral-Derivative) based temperature control system** for industrial heating applications. It combines **analog op-amp circuits** with **ESP32 microcontroller programming** to achieve precise and stable temperature regulation.  
 
 ## 🛠️ Features  
