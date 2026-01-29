@@ -34,11 +34,6 @@ This project implements a **PID (Proportional-Integral-Derivative) based tempera
 - Support for multi-zone temperature control  
 - AI/ML-based intelligent tuning  
 
-## 👥 Team Members  
-- Likhit Porwal  
-- Manasi Shilwant  
-- Pramod Gurav  
-- Rayyan Hanchanal  
 
 ## 📖 License  
 This project is for **academic and research purposes** under an open-source license.  
